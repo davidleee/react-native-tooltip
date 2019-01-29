@@ -6,8 +6,6 @@ A custom tooltip view for react-native apps.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 
 This is a component for react-native ONLY! Tweaks should be made if you want to use it somewhere else.
